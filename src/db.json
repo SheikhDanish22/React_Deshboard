@@ -1,0 +1,32 @@
+{
+  "Medical": [
+    {
+      "id": "1",
+      "Tablet_Name": "Calpol",
+      "Price": 2,
+      "Company_Name": "Allegiant Pharma Pvt.Ltd",
+      "MNF": 2000
+    },
+    {
+      "id": "2",
+      "Tablet_Name": "Coflet",
+      "Price": 3,
+      "Company_Name": "Coflet Pharma Pvt.Ltd",
+      "MNF": 2005
+    },
+    {
+      "id": "3",
+      "Tablet_Name": "Disprin",
+      "Price": 1,
+      "Company_Name": "Disprin Pharma Pvt.Ltd",
+      "MNF": 1996
+    },
+    {
+      "id": "fca8",
+      "Tablet_Name": "Bolo",
+      "Price": "120",
+      "Company_Name": "DMS",
+      "MNF": "2012"
+    }
+  ]
+}
